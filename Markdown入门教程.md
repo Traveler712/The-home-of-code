@@ -50,9 +50,8 @@
    ` printf("hello world"); `
 7. **超链接**
    - [学习网站]：https://www.bilibili.com/
-   - 前往学习网站请[点击链接][链接1]  
-  
-  [链接1]: https://www.bilibili.com/ 
+   - 前往学习网站请[点击链接][链接1]
+     [链接1]: https://www.bilibili.com/ 
    - 以上内容需空一行方可定义 
 8. **图片**
    - 使用图床保存图片  
@@ -70,6 +69,7 @@
 ## 三.导出为PDF
 1. 使用Markdown PDF  
 2. Open in Browser 手动导出
+
 
 
 
