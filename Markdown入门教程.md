@@ -1,7 +1,7 @@
 # <center> <font face="楷体" color=blue > Markdown入门 </font></center>
 ## 一.基本语法
-1. **标题**
-   #一级标题
+1. **标题**  
+   #一级标题  
    ##二级标题
    ......
 2. **引用**
@@ -69,4 +69,5 @@
       [链接2]: https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.1007_top_right_bar_window_history_content.click&vd_source=9d8556437f2404cedd0da5ac0fa8b637
 ## 三.导出为PDF
 1. 使用Markdown PDF
+
 2. Open in Browser 手动导出
