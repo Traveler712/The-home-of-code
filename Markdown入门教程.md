@@ -64,12 +64,13 @@
    <a href="https://imgse.com/i/pV4LhjJ"><div align=center><img src="https://s21.ax1x.com/2025/09/22/pV4LhjJ.jpg" alt="pV4LhjJ.jpg" border="0" width="60%" /></div></a>
    <a href="https://imgse.com/i/pV4LhjJ"><img src="https://s21.ax1x.com/2025/09/22/pV4LhjJ.jpg" alt="pV4LhjJ.jpg" border="0" width="60%"/></a>
 ## 二.其他操作
-    - 详情请[点击链接][链接2]
+   - 详情请[点击链接][链接2]
 
       [链接2]: https://www.bilibili.com/video/BV1bK4y1i7BY/?spm_id_from=333.1007_top_right_bar_window_history_content.click&vd_source=9d8556437f2404cedd0da5ac0fa8b637
 ## 三.导出为PDF
 1. 使用Markdown PDF  
 2. Open in Browser 手动导出
+
 
 
 
